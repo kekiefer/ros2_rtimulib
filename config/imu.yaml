@@ -1,0 +1,3 @@
+imu_node:
+  ros__parameters:
+    settings_file: RTIMULib
